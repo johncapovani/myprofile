@@ -14,26 +14,12 @@
     height: auto;
     border: 1px solid black;
     opacity: 0.8;
-    align-content: center;
-    margin-left: 300px;
-    margin-right: 300px;
+    align-content: left;
+    margin: 0;
     padding:0;
-    position: relative;
 
 }
 
-.productimage{
-
-    width: 450px;
-    height: 500px;
-    border: 1px solid black;
-    opacity: 0.8;
-    align-content: center;
-    margin-left: 300px;
-    margin-right: 300px;
-    padding:0;
-    position: relative;
-}
 .aboutme{
 
     border: 1px solid black;
@@ -99,3 +85,4 @@ nav{
     font-family: "Sen", sans-serif;
 
 }
+
