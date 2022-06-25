@@ -6,15 +6,14 @@
 
     color:red;
     font-size: 24px;
+    padding-bottom: 100px;
 }
 
 .bannerimage{
 
     width: auto;
-    height: auto;
+    height: 500px;
     border: 1px solid black;
-    opacity: 0.8;
-    align-content: left;
     margin: 0;
     padding:0;
 
@@ -29,14 +28,14 @@
     margin-left: 300px;
     margin-right: 300px;
     padding:35px;
-    padding-top: 0px;
+    padding-top: 10px;
 
 
 }
 
 
 
-  ul {
+.navul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -48,7 +47,7 @@
     
   }
   
-  li {
+  .navli {
     float: left;
     border-right: 1px solid #bbb;
   }
@@ -86,3 +85,23 @@ nav{
 
 }
 
+
+.bodycontent {
+  font-size: 2rem;
+  font-family: "Sen", sans-serif;
+  background-color: #ECF0F1;
+  color: #060606;
+  line-height: 1.6;
+  letter-spacing: 1.5px;
+  margin: 0;
+  margin-top: 75px;
+  padding-top: 10px;
+
+ 
+}
+
+.profilephoto{
+
+padding-top: 10px;
+
+}
