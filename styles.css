@@ -4,6 +4,79 @@
 
 .seabirdstyle{
 
-    color:gold;
+    color:red;
     font-size: 24px;
+}
+
+.bannerimage{
+
+    width: 900px;
+    height: 350px;
+    border: 1px solid black;
+    opacity: 0.8;
+    align-content: left;
+    margin: 0;
+    padding:0;
+
+}
+
+.aboutme{
+
+    border: 1px solid black;
+    width: 800px;
+    height: auto;
+
+
+}
+
+
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2C3F50;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+  }
+  
+  li {
+    float: left;
+    border-right: 1px solid #bbb;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #E84C3D;
+  }
+
+  body {
+    font-size: 2rem;
+    font-family: "Sen", sans-serif;
+    background-color: #ECF0F1;
+    color: #060606;
+    line-height: 1.6;
+    letter-spacing: 1.5px;
+    margin: 0;
+    padding: 0;
+
+   
+}
+
+nav{
+
+    font-size: 2rem;
+    font-family: "Sen", sans-serif;
+    
 }
